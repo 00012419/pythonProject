@@ -1,1 +1,2 @@
 print(crazy)
+print(normal)
